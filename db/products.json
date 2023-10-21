@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "laptop",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2crUu4J2JWafAtVXJEVF4_UkEo26wT0fWA&usqp=CAU",
+      "description": "dcksdnckdnjsdncmz",
+      "id": 1
+    },
+    {
+      "name": "olma",
+      "img": "https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fpixy.org%2Fsrc%2F478%2F4783359.jpg&lr=10335&pos=1&rpt=simage&text=olma%20img",
+      "description": "olma rangi qizil ",
+      "id": 2
+    }
+  ]
+}
